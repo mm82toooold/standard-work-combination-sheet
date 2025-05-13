@@ -103,16 +103,16 @@ Future updates will also include:
 
 ### Process Breakdown & Takt Time Validation
 
-<img src="screenshots/Screenshot 2025-05-13 at 21.46.34.png" width="600">
+<img src="/Screenshot 2025-05-13 at 21.46.34.png" width="600">
 
 ### Yamazumi Chart
 
-<img src="screenshots/Screenshot 2025-05-13 at 21.47.13.png" width="600">
+<img src="/Screenshot 2025-05-13 at 21.47.13.png" width="600">
 
 ### Work Sequence Flow Visualization
 
-<img src="screenshots/Screenshot 2025-05-13 at 21.47.21.png" width="600">
+<img src="/Screenshot 2025-05-13 at 21.47.21.png" width="600">
 
 ### Cycle Time Breakdown
 
-<img src="screenshots/Screenshot 2025-05-13 at 21.47.32.png" width="600">
+<img src="/Screenshot 2025-05-13 at 21.47.32.png" width="600">
